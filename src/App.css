@@ -1,0 +1,4 @@
+/* App-specific overrides (MUI handles most styling) */
+#root {
+  min-height: 100vh;
+}
